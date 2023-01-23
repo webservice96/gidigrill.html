@@ -1,0 +1,57 @@
+[
+	{
+		"id": "1",
+		"title_i18n": "Morning Dive",
+		"description_i18n": "",
+		"venue_i18n": "The Pool",
+		"start_time": "06:30:00",
+		"url": "https://www.k11.com/corp/",
+		"video": "media/videos/home/schedule/01-morning-dive.mp4",
+		"cover_image_m": "media/images/home/schedule/01-morning-dive_m.jpg",
+		"time": "06:30"
+	},
+	{
+		"id": "4",
+		"title_i18n": "Artisanal Living Experience",
+		"description_i18n": "",
+		"venue_i18n": "The Living Salon",
+		"start_time": "09:30:00",
+		"url": "",
+		"video": "media/videos/home/schedule/02-living-salon.mp4",
+		"cover_image_m": "media/images/home/schedule/02-living-salon_m.jpg",
+		"time": "09:30"
+	},
+	{
+		"id": "7",
+		"title_i18n": "A Quiet Moment",
+		"description_i18n": "",
+		"venue_i18n": "The Library",
+		"start_time": "13:30:00",
+		"url": null,
+		"video": "media/videos/home/schedule/03-reading-time.mp4",
+		"cover_image_m": "media/images/home/schedule/03-reading-time_m.jpg",
+		"time": "13:30"
+	},
+	{
+		"id": "10",
+		"title_i18n": "Artisanal Discovery",
+		"description_i18n": "",
+		"venue_i18n": "The Library",
+		"start_time": "16:30:00",
+		"url": null,
+		"video": "media/videos/home/schedule/04-library-discovery.mp4",
+		"cover_image_m": "media/images/home/schedule/04-library-discovery_m.jpg",
+		"time": "16:30"
+	},
+	{
+		"id": "13",
+		"title_i18n": "Evening Contemplation",
+		"description_i18n": "",
+		"venue_i18n": "The Balcony",
+		"start_time": "19:30:00",
+		"url": null,
+		"video": "media/videos/home/schedule/05-night-view.mp4",
+		"cover_image_m": "media/images/home/schedule/05-night-view_m.jpg",
+		"time": "19:30"
+	}
+]

@@ -1,0 +1,212 @@
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .left >a>img {
+        width: 45%;
+    }
+    .d-sm-none{
+        display: none !important;
+    }
+    .wp_choose_us {
+            width: 100%;
+        }
+    .title-group h2 {
+        font-size: 28px;
+    }
+    
+    .testimonials-section {
+        padding-top: 0px !important;
+    }
+    .footer_wrapper #footerContent> div.row .col-sm-3 {
+        width:100%;
+        margin-bottom: 20px;
+    }
+    .footer_bottom_wrapper.footer_botton_container>div{
+    display: flex;
+    flex-direction: row;
+    }
+    .footer_menu ul {
+        text-align:start;
+    }
+    .footer_menu ul li {
+        display:block;
+        padding: 5px 0;
+    }
+
+    /* about page */
+    .container-amici {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    .container-amici .image-wrapper {
+        width: 100% !important;
+    }
+    .container-amici .content-group {
+        width: 100% !important;
+        padding: 10px;
+        
+    }
+    .victoria-dockside-section .victoria-dockside-container {
+        height: 380px;
+        position: static;
+        top: 0;
+    }
+    .victoria-dockside-section .victoria-dockside-container .content-group {
+        padding-top: 200px;
+        color: #fff;
+        z-index: 2;
+        position: absolute;
+        width: 100%;
+        left: 15px;
+    }
+    .k11-craft-section .k11-craft-container .image-wrapper {
+        width: 100%;
+        left: 0;
+    }
+    .k11-craft-section .k11-craft-container .bg-color{
+        display: none;
+    }
+    .k11-craft-section .k11-craft-container .content-group {
+        position: absolute;
+        top: 459px;
+        width: 100%;
+        background: #ccc;
+        left: 4px;
+        padding: 10px;
+    }
+
+    /* food menu page */
+    .spc.textblock {
+        padding: 0px 0px;
+    }
+    .three_buttons .menus {
+        width: 100%;
+    }
+    .slider_1 {
+        flex-direction: column;
+    }
+    .sider_box {
+        width: 100% !important;
+    }
+    .slider_right_text {
+        width: 100% !important;
+        padding: 20px 50px;
+    }
+    .slider_2 {
+        flex-direction: column;
+    }
+    .content-flex {
+        flex-direction: column;
+    }
+    h3{
+        font-size: 60px !important;
+    }
+    .windows {
+        flex-direction: column;
+    }
+    .award-aria {
+        flex-direction: column;
+    }
+    .award-image {
+        width: 100%;
+    }
+    .award-content {
+        width: 100%;
+    }
+    /* location page */
+    section.head-section.location-page {
+        height: auto;
+        margin: 0;
+    }
+    section.room-section .container {
+        flex-direction: column;
+    }
+    section.room-section .container .image-content {
+        width: 100%;
+    }
+   section.room-section .container .text-content {
+       width: 100%;
+       margin-left: 0 !important;
+       margin-top: 0 !important;
+   }
+    section.room-section .odd-container .text-content .section-background {
+        width: 100%;
+    }
+    section.room-section .even-container .image-content .pattern {
+        bottom: -46px;
+        left: -140px;
+        max-width: 420px;
+        z-index: -1;
+        position: absolute;
+        height: 324px;
+    }
+    /* dundee page  */
+    section .top-banner-container {
+        padding: 0 10px 0 10px !important;
+    }
+    section .container .facilities-group ul li {
+        width: 50%;
+    }
+    section .full-container .image-list-group .row .item-wrapper .item {
+        margin-top: 0px;
+    }
+    section .container .title-group .description {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    section .full-container .billboard-group {
+        padding: 0px 10px;
+    }
+    .right-scroll {
+        display: none;
+    }
+    section .full-container .image-list-group {
+        margin-bottom: 15px;
+    }
+    section .full-container .billboard-group {
+        margin-bottom: 50px;
+    }
+
+    /* culture page  */
+    .culture-row {
+        align-items: center;
+        flex-direction: column;
+    }
+    .culture-row .right-content {
+            width: 100%;
+        }
+    .culture-image-row {
+        min-height: 20vh;
+    }
+    .right-image {
+        position: absolute;
+        width: 100%;
+        right: 0;
+        z-index: 100;
+        min-height: 0px;
+        border-radius: 15px;
+    }
+
+    /* founder page css*/
+    .artist__details {
+        flex-direction: column-reverse;
+    }
+    .artist__thumbnail-group {
+        width: 100vw;
+        left: 0;
+    }
+    .artist__description {
+        width: 100vw;
+        padding: 10px;
+    }
+    .artist__name {
+        font-size: 50px;
+        line-height: 1;
+    }
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .wp_choose_us {
+            min-height: 400px;
+        }
+}
