@@ -794,8 +794,8 @@
 								var e = this;
 								c.a.ajax({
 									type: "GET",
-									url: "../../ajax/getscheduleitemlist.json",
-									dataType: "json",
+									url: "ajax/getscheduleitemlist.json",
+									// dataType: "json",
 									data: { type: "" },
 									success: function (t) {
 										(e.schedule_items = Object.keys(t).map(
